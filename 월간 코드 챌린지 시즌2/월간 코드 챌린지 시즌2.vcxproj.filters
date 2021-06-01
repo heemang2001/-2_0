@@ -24,5 +24,8 @@
     <ClCompile Include="괄호 회전하기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2개 이하로 다른 비트.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
