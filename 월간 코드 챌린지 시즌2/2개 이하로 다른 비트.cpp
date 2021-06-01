@@ -70,7 +70,7 @@ vector<long long> solution(vector<long long> numbers)
 
 int main()
 {
-	vector<long long> answer = solution({ 2,7 });
+	vector<long long> answer = solution({ 2,7,47 });
 
 	for (int i = 0; i < answer.size(); i++)
 	{
